@@ -1,4 +1,4 @@
-# Server WebRTC of the EISC Metaverse
+# Server WebRTC of the EduVerse
 # Install dependencies: 
 npm install
 # Run project
