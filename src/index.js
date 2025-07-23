@@ -2,7 +2,7 @@
 
 import { Server } from "socket.io";
 
-const apiUrl = "https://eduverse-rouge-five.vercel.app";
+const apiUrl = "https://eduverse-rouge-five.vercel.app/";
 const port = 8080;
 
 const io = new Server({
