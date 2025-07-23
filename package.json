@@ -1,0 +1,22 @@
+{
+  "name": "eduverse-web-rtc",
+  "version": "2.0.0",
+  "description": "WebRTC for the EduVerse",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "author": "Fabian Stiven Valencia Cordoba",
+  "license": "ISC",
+  "dependencies": {
+    "simple-peer": "^9.11.1",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=20.12.2"
+  }
+}
